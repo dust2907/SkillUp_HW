@@ -1,0 +1,6 @@
+a = int(2.7)
+b = int(15.5)
+c = int(-9)
+d = int(9)
+e = int(0b111)
+print(a, b, c, d, e)

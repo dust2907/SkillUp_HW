@@ -1,0 +1,6 @@
+x = bool(1)
+y = bool(0)
+z = bool([])
+print(x)
+print(y)
+print(z)

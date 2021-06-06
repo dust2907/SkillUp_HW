@@ -1,0 +1,5 @@
+print(round(5.24532635564))
+print(round(5.22343425234, 1))
+print(round(5.23424524423, 2))
+print(round(5.21313123134, 3))
+print(round(2.3454, 2))

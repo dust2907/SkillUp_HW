@@ -1,3 +1,5 @@
 x = float(55)
 print(x)
-y = float()
+str_float = (-5.500)
+y = float(str_float)
+print(y)

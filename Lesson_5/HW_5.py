@@ -1,7 +1,7 @@
 from random import randint
 
-list_1 = sorted([randint(1, 10) for i in range(10)])
-list_2 = sorted([randint(1, 20) for i in range(10)])
+list_1 = sorted([randint(1, 99) for i in range(10)])
+list_2 = sorted([randint(1, 99) for i in range(10)])
 
 print(f"1-й список: {list_1}")
 print(f"2-й список: {list_2}")

@@ -10,6 +10,5 @@ def multiply(a):
 e = [1, 2, 3, 4, 5]
 print(multiply(e))
 
-
 # Вывод
 # 120

@@ -22,9 +22,9 @@ def variance(u_list):
             print(i, end = '')
         print("")
 
-print("Уникальные строки:")
+print("Уникальные строки первого файла:")
 variance(output_of_deviations(txt1, txt2))
-print("Unique strings from the second file:")
+print("Уникальные строки второго файла:")
 variance(output_of_deviations(txt1, txt2))
-print("What happens if we compare the file with itself:")
+print("Сравнение файлов:")
 variance(output_of_deviations(txt1, txt2))
